@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 👯 I’m looking to collaborate on **data sciene projects**
+- 👯 I’m looking to collaborate on **data science projects**
 
 - 📫 How to reach me **shrutithorle95@gmail.com**
 
