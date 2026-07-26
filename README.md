@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently searching for **freelancing projects related to data science**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently working as **Scientific Curator**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
